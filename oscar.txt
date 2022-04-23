@@ -1,14 +1,9 @@
 hola que haces 
 oscar
 veronica
-<<<<<<< HEAD
-te amo mucho
-mi princesa
-=======
 te amo mucho amorcitos
 
 
 
 
 me encantas demaciado princesa
->>>>>>> cabezera
